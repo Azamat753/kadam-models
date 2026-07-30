@@ -1,0 +1,47 @@
+{
+  "manifestVersion": 1,
+  "modelVersion": "1.0.0",
+  "tts": {
+    "files": [
+      {
+        "name": "model.onnx",
+        "path": "tts/model.onnx",
+        "url": "URL_БУДЕТ_УКАЗАН_ПОСЛЕ_ПУБЛИКАЦИИ",
+        "size": 114016952,
+        "sha256": "9d8bb52e185c154e6701df8f53bae11687ad30462a1b99e6ade202da79604ad7"
+      },
+      {
+        "name": "tokens.txt",
+        "path": "tts/tokens.txt",
+        "url": "URL_БУДЕТ_УКАЗАН_ПОСЛЕ_ПУБЛИКАЦИИ",
+        "size": 411,
+        "sha256": "7ae294618335285bcef6a10078053aa315a2403bfd763a196eba954e578bd53f"
+      }
+    ]
+  },
+  "asr": {
+    "files": [
+      {
+        "name": "model.onnx",
+        "path": "asr/model.onnx",
+        "url": "URL_БУДЕТ_УКАЗАН_ПОСЛЕ_ПУБЛИКАЦИИ",
+        "size": 355165073,
+        "sha256": "3ce8a3a7a42d7f5df7d42831139b9fbe9f78956fa69049292a914e8fa1a277fa"
+      },
+      {
+        "name": "vocab.json",
+        "path": "asr/vocab.json",
+        "url": "URL_БУДЕТ_УКАЗАН_ПОСЛЕ_ПУБЛИКАЦИИ",
+        "size": 418,
+        "sha256": "eb5e081107a342e27a9025bc07e89d38d26cbc11742f82c951f99c274c1c77c2"
+      },
+      {
+        "name": "asr-meta.json",
+        "path": "asr/asr-meta.json",
+        "url": "URL_БУДЕТ_УКАЗАН_ПОСЛЕ_ПУБЛИКАЦИИ",
+        "size": 117,
+        "sha256": "e43165c313b81196b662e656d08b0a59f3c5bd53e69dc60caffbb530c72850d9"
+      }
+    ]
+  }
+}
