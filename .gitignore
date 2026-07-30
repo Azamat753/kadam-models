@@ -1,8 +1,0 @@
-.DS_Store
-*.part
-*.tmp
-__pycache__/
-.venv/
-venv/
-node_modules/
-asr/model.fp32.onnx
